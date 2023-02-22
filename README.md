@@ -32,38 +32,31 @@
 
 - #### 結構模式 (Structural Patterns)：<br>
   該模式主要針對如何讓小物件去組合成一個大型的物件，例如繼承和組合。
-    - 合成 Composite
-    - [原型 Prototype](https://github.com/RC-Dev-Tech/design-pattern-factory-method)
+    - [合成 Composite](https://github.com/RC-Dev-Tech/design-pattern-factory-method)
     <br>![](https://img.shields.io/badge/c%2B%2B-v0.0-blue)
     [![last commit](https://img.shields.io/github/last-commit/RC-Dev-Tech/design-pattern-factory-method)]()
 
-    - 裝飾者 Decorator
-    - [原型 Prototype](https://github.com/RC-Dev-Tech/design-pattern-factory-method)
+    - [裝飾者 Decorator](https://github.com/RC-Dev-Tech/design-pattern-factory-method)
     <br>![](https://img.shields.io/badge/c%2B%2B-v0.0-blue)
     [![last commit](https://img.shields.io/github/last-commit/RC-Dev-Tech/design-pattern-factory-method)]()
 
-    - 橋接 Bridge
-    - [原型 Prototype](https://github.com/RC-Dev-Tech/design-pattern-factory-method)
+    - [橋接 Bridge](https://github.com/RC-Dev-Tech/design-pattern-factory-method)
     <br>![](https://img.shields.io/badge/c%2B%2B-v0.0-blue)
     [![last commit](https://img.shields.io/github/last-commit/RC-Dev-Tech/design-pattern-factory-method)]()
 
-    - 享元 Flyweight
-    - [原型 Prototype](https://github.com/RC-Dev-Tech/design-pattern-factory-method)
+    - [享元 Flyweight](https://github.com/RC-Dev-Tech/design-pattern-factory-method)
     <br>![](https://img.shields.io/badge/c%2B%2B-v0.0-blue)
     [![last commit](https://img.shields.io/github/last-commit/RC-Dev-Tech/design-pattern-factory-method)]()
 
-    - 代理人 Proxy
-    - [原型 Prototype](https://github.com/RC-Dev-Tech/design-pattern-factory-method)
+    - [代理人 Proxy](https://github.com/RC-Dev-Tech/design-pattern-factory-method)
     <br>![](https://img.shields.io/badge/c%2B%2B-v0.0-blue)
     [![last commit](https://img.shields.io/github/last-commit/RC-Dev-Tech/design-pattern-factory-method)]()
 
-    - 轉接器 Adapter
-    - [原型 Prototype](https://github.com/RC-Dev-Tech/design-pattern-factory-method)
+    - [轉接器 Adapter](https://github.com/RC-Dev-Tech/design-pattern-factory-method)
     <br>![](https://img.shields.io/badge/c%2B%2B-v0.0-blue)
     [![last commit](https://img.shields.io/github/last-commit/RC-Dev-Tech/design-pattern-factory-method)]()
 
-    - 表象 Facade
-    - [原型 Prototype](https://github.com/RC-Dev-Tech/design-pattern-factory-method)
+    - [表象 Facade](https://github.com/RC-Dev-Tech/design-pattern-factory-method)
     <br>![](https://img.shields.io/badge/c%2B%2B-v0.0-blue)
     [![last commit](https://img.shields.io/github/last-commit/RC-Dev-Tech/design-pattern-factory-method)]()
 
