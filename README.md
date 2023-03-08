@@ -9,7 +9,7 @@
 - ### 生成模式 (Creational Patterns)：<br>
   該模式主要針對物件實體化，並且提供一個方法，讓客戶端能透過實體化物件的過程中分離出來。
     - [工廠方法 Factory Method](https://github.com/RC-Dev-Tech/design-pattern-factory-method)
-    <br>![](https://img.shields.io/badge/c%2B%2B-v0.0-blue)
+    <br>![](https://img.shields.io/badge/c%2B%2B-v1.0-blue)
     [![last commit](https://img.shields.io/github/last-commit/RC-Dev-Tech/design-pattern-factory-method)]()
     
     - [抽象工廠 Abstract Factory](https://github.com/RC-Dev-Tech/design-pattern-abstract-factory)
