@@ -4,7 +4,7 @@
 
 <br>
 
-## GoF設計模式主要分為三大模式：
+## GoF設計模式主要分為三大模式
 
 - ### 生成模式 (Creational Patterns)：<br>
   該模式主要針對物件實體化，並且提供一個方法，讓客戶端能透過實體化物件的過程中分離出來。
@@ -108,3 +108,11 @@
     <br>![](https://img.shields.io/badge/c%2B%2B-v0.0-blue)
     [![last commit](https://img.shields.io/github/last-commit/RC-Dev-Tech/design-pattern-mediator)]()
 
+---
+<br>
+
+---
+<!--ts-->
+#### [目錄 ↩](#GoF設計模式主要分為三大模式)
+<!--te-->
+---
