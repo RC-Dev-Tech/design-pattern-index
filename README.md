@@ -1,8 +1,7 @@
 # ![](https://drive.google.com/uc?id=10INx5_pkhMcYRdx_OO4rXNXxcsvPtBYq) GOF-設計模式
-
 > ##### 理論請自行找，網路上有很多相關的文章，這邊只關注於範例實作的部分.
 
-<br>
+---
 
 ## GoF設計模式主要分為三大模式
 
@@ -109,7 +108,6 @@
     [![last commit](https://img.shields.io/github/last-commit/RC-Dev-Tech/design-pattern-mediator)]()
 
 ---
-<br>
 
 <!--ts-->
 #### [目錄 ↩](#GoF設計模式主要分為三大模式)
