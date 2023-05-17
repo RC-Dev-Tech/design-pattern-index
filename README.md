@@ -16,7 +16,7 @@
     [![last commit](https://img.shields.io/github/last-commit/RC-Dev-Tech/design-pattern-abstract-factory)]()
 
     - [建構者 Builder](https://github.com/RC-Dev-Tech/design-pattern-builder)
-    <br>![](https://img.shields.io/badge/c%2B%2B-v0.0-blue)
+    <br>![](https://img.shields.io/badge/c%2B%2B-v1.0-blue)
     [![last commit](https://img.shields.io/github/last-commit/RC-Dev-Tech/design-pattern-builder)]()
 
     - [單例 Singleton](https://github.com/RC-Dev-Tech/design-pattern-singleton)
