@@ -32,7 +32,7 @@
 - #### 結構模式 (Structural Patterns)：<br>
   該模式主要針對如何讓小物件去組合成一個大型的物件，例如繼承和組合。
     - [合成 Composite](https://github.com/RC-Dev-Tech/design-pattern-composite)
-    <br>![](https://img.shields.io/badge/c%2B%2B-v0.0-blue)
+    <br>![](https://img.shields.io/badge/c%2B%2B-v1.0-blue)
     [![last commit](https://img.shields.io/github/last-commit/RC-Dev-Tech/design-pattern-composite)]()
 
     - [裝飾者 Decorator](https://github.com/RC-Dev-Tech/design-pattern-decorator)
