@@ -64,23 +64,23 @@
 - #### 行為模式 (Behavioral Patterns)：<br>
   這種類型的設計模式為對象之間更好的交互提供了解決方案，如何提供失去耦合以及將來易於擴展的靈活性。
     - [策略 Strategy](https://github.com/RC-Dev-Tech/design-pattern-strategy)
-    <br>![](https://img.shields.io/badge/c%2B%2B-v0.0-blue)
+    <br>![](https://img.shields.io/badge/c%2B%2B-v1.0-blue)
     [![last commit](https://img.shields.io/github/last-commit/RC-Dev-Tech/design-pattern-strategy)]()
 
     - [命令 Command](https://github.com/RC-Dev-Tech/design-pattern-command)
-    <br>![](https://img.shields.io/badge/c%2B%2B-v0.0-blue)
+    <br>![](https://img.shields.io/badge/c%2B%2B-v1.0-blue)
     [![last commit](https://img.shields.io/github/last-commit/RC-Dev-Tech/design-pattern-command)]()
 
     - [疊代器 Iterator](https://github.com/RC-Dev-Tech/design-pattern-iterator)
-    <br>![](https://img.shields.io/badge/c%2B%2B-v0.0-blue)
+    <br>![](https://img.shields.io/badge/c%2B%2B-v1.0-blue)
     [![last commit](https://img.shields.io/github/last-commit/RC-Dev-Tech/design-pattern-iterator)]()
 
     - [狀態 State](https://github.com/RC-Dev-Tech/design-pattern-state)
-    <br>![](https://img.shields.io/badge/c%2B%2B-v0.0-blue)
+    <br>![](https://img.shields.io/badge/c%2B%2B-v1.0-blue)
     [![last commit](https://img.shields.io/github/last-commit/RC-Dev-Tech/design-pattern-state)]()
 
     - [訪問者 Visitor](https://github.com/RC-Dev-Tech/design-pattern-visitor)
-    <br>![](https://img.shields.io/badge/c%2B%2B-v0.0-blue)
+    <br>![](https://img.shields.io/badge/c%2B%2B-v1.0-blue)
     [![last commit](https://img.shields.io/github/last-commit/RC-Dev-Tech/design-pattern-visitor)]()
 
     - [備忘錄 Memento](https://github.com/RC-Dev-Tech/design-pattern-memento)
