@@ -88,23 +88,23 @@
     [![last commit](https://img.shields.io/github/last-commit/RC-Dev-Tech/design-pattern-memento)]()
 
     - [觀察者 Observer](https://github.com/RC-Dev-Tech/design-pattern-observer)
-    <br>![](https://img.shields.io/badge/c%2B%2B-v0.0-blue)
+    <br>![](https://img.shields.io/badge/c%2B%2B-v1.0-blue)
     [![last commit](https://img.shields.io/github/last-commit/RC-Dev-Tech/design-pattern-observer)]()
 
     - [責任鏈 Chain of Responsibility](https://github.com/RC-Dev-Tech/design-pattern-chain-of-responsibility)
-    <br>![](https://img.shields.io/badge/c%2B%2B-v0.0-blue)
+    <br>![](https://img.shields.io/badge/c%2B%2B-v1.0-blue)
     [![last commit](https://img.shields.io/github/last-commit/RC-Dev-Tech/design-pattern-chain-of-responsibility)]()
 
     - [樣板方法 Template Method](https://github.com/RC-Dev-Tech/design-pattern-template-method)
-    <br>![](https://img.shields.io/badge/c%2B%2B-v0.0-blue)
+    <br>![](https://img.shields.io/badge/c%2B%2B-v1.0-blue)
     [![last commit](https://img.shields.io/github/last-commit/RC-Dev-Tech/design-pattern-template-method)]()
 
     - [解譯器 Interpreter](https://github.com/RC-Dev-Tech/design-pattern-interpreter)
-    <br>![](https://img.shields.io/badge/c%2B%2B-v0.0-blue)
+    <br>![](https://img.shields.io/badge/c%2B%2B-v1.0-blue)
     [![last commit](https://img.shields.io/github/last-commit/RC-Dev-Tech/design-pattern-interpreter)]()
 
     - [中介者 Mediator](https://github.com/RC-Dev-Tech/design-pattern-mediator)
-    <br>![](https://img.shields.io/badge/c%2B%2B-v0.0-blue)
+    <br>![](https://img.shields.io/badge/c%2B%2B-v1.0-blue)
     [![last commit](https://img.shields.io/github/last-commit/RC-Dev-Tech/design-pattern-mediator)]()
 
 ---
